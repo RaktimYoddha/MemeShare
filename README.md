@@ -11,8 +11,6 @@ This is a meme generator and sharer app
 <br>
 
 
-Time spent: **4** hours spent in total
-
 ## Functionality
 
 🔹 Ther user will get a display screen with a random meme 
@@ -38,3 +36,5 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 3.Jason object request
 
 4.Use of intent
+
+Time spent: **4** hours spent in total
